@@ -1,0 +1,29 @@
+{
+  "name": "sfx-react-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "sfx": "bin/sfx",
+    "sfx-init": "bin/sfx-init",
+    "sfx-add": "bin/sfx-add",
+    "sfx-list": "bin/sfx-list",
+    "sfx-delete": "bin/sfx-delete"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1225zhangqian"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "download-git-repo": "^1.1.0",
+    "inquirer": "^6.2.2",
+    "ora": "^3.2.0"
+  }
+}
