@@ -1,0 +1,9 @@
+{
+  "PlatformUrl": "[Replace the url with baseUrl]",
+  "AuthorityUrl": "[Replace the url with authentication url]",
+  "ClientId": "[Replace the ClientId with your own solution ClientId]",
+  "Scope": "[Replace the Scope with your own solution Scope]",
+  "SolutionTitle": "[Replace the SolutionTitle with your own solution title]",
+  "SolutionShortTitle": "[Replace the SolutionShortTitle with your own solution short title]",
+  "AppVersion": "[Replace the AppVersion with your own solution version]"
+}
